@@ -1,0 +1,55 @@
+body {
+    background-image: url("./istockphoto-1135359711-1024x1024.jpg");
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display:flex;
+    justify-content: center;
+}
+.menu {
+    background-color: aqua;
+    max-width: 500px;
+    width: 80%;
+    padding: 10px;
+}
+h1, h2, p {
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    margin-top: 0;
+}
+h2{
+    font-size: 30px;
+}
+.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 15px;
+}
+.flavor, .dessert {
+    text-align: left;
+    width: 80%;
+}
+.price {
+    text-align: right ;
+    width: 20%;
+}
+.found {
+    font-style: italic;
+}
+hr {
+    background-color: skyblue;
+    border-color: skyblue;
+    height: 3px;
+}
+.bottom-line {
+    margin-top: 35px;
+}
+footer {
+    font-size: 13px;
+}
+.address {
+    margin-bottom: 10px;
+    font-style: oblique;
+    font-size: 20px;
+}

@@ -1,0 +1,70 @@
+*{
+    background-color: white;
+}
+
+div{
+    background-color: black ;
+}
+
+
+#btn1{    
+    color: blue;
+    border-width: 10px;
+   
+}
+#btn2{
+    color: blue;
+    border-width: 10px;
+}
+#btn3{
+    color: blue;
+    border-width: 10px;
+}
+/*This style is for the common class*/
+.btn{
+    background-color: yellow;
+    margin: 50px;
+    width: 100px;
+    height: 50px;
+}
+
+ /*this style is for the common class*/
+ .cat{
+    background-color: pink;
+    margin: 50px;
+    width: 100px;
+    height: 50px; 
+    padding-right: 100px;
+}
+#cat1{
+    color: blueviolet;
+    border-width: 10px;
+}
+#cat2{
+    color: blueviolet;
+    border-width: 10px;
+}
+#cat3{
+    color: blueviolet;
+    border-width: 10px;
+}
+/*this style is for the common style*/
+.pt{
+    background-color: red;
+    margin: 50px;
+    width: 100px;
+    height: 50px; 
+    padding-right: 50px; 
+}
+#pt1{
+    color: white;
+    border-width: 10px;
+}
+#pt2{
+    color: white;
+    border-width: 10px;
+}
+#pt3{
+    color: white;
+    border-width: 10px;
+}
